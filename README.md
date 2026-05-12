@@ -2,7 +2,7 @@
 
 🎓 Estudiante de noveno semestre de Desarrollo de Software en la Institución Universitaria Pascual Bravo.
 
-💻 Interesado en automatización de procesos, desarrollo web y soluciones empresariales internas.
+💻 Interesado en automatización de procesos, análisis de datos, desarrollo web y soluciones empresariales internas.
 
 ---
 
