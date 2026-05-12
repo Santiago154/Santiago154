@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Santiago Restrepo
+# Hola, Soy Santiago Restrepo
 
 🎓 Estudiante de noveno semestre de Desarrollo de Software en la Institución Universitaria Pascual Bravo.
 
